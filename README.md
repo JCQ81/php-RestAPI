@@ -12,9 +12,9 @@ For two factor authentication, please implement an LDAP or Radius solution that 
 ## Functions
 
 * [sAPI](#sapi)
-* [Authentication](#sAPI-with-authentication)
-* [Authentication on LDAP/Radius](#Authentication-on-LDAP/RADIUS)
-* [Authentication API Reference](#Authentication---API-Reference)
+* [Authentication](#authentication)
+* [Authentication on LDAP/Radius](#authentication-on-ldapradius)
+* [Authentication API Reference](#authentication-api-reference)
 
 ## sAPI
 
